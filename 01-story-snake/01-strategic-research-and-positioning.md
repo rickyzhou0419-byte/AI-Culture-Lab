@@ -3,15 +3,15 @@
 **Project:** AI Culture Lab #01<br>
 **Research type:** Focused desktop research<br>
 **Primary market lens:** United States<br>
-**Last updated:** July 21, 2026
+**Last updated:** July 22, 2026 (v2 — added supplementary observation, Section 4.3)
 
 ## 1. Executive summary
 
-Story Snake should move forward as a **rapid interaction experiment**, not as another children’s Chinese-learning app.
+Story Snake should move forward as a **rapid interaction experiment**, not as another children's Chinese-learning app.
 
-The sampled market already offers strong products in structured language learning, children’s Mandarin instruction, fixed educational games, and AI-generated storytelling. The opportunity for Story Snake is narrower and more distinctive:
+The sampled market already offers strong products in structured language learning, children's Mandarin instruction, fixed educational games, and AI-generated storytelling. The opportunity for Story Snake is narrower and more distinctive:
 
-> Use a familiar, low-friction game mechanic as the child’s language of interaction, then use constrained AI to turn simple play behavior into adaptive cultural meaning.
+> Use a familiar, low-friction game mechanic as the child's language of interaction, then use constrained AI to turn simple play behavior into adaptive cultural meaning.
 
 The strategic focus is therefore:
 
@@ -27,7 +27,7 @@ Desktop research supports continuing to concept development, but it does not pro
 This review examines four areas:
 
 1. the U.S. Chinese heritage-language audience;
-2. language-learning and children’s Chinese products;
+2. language-learning and children's Chinese products;
 3. AI storytelling and child–AI interaction;
 4. school, museum, safety, and privacy considerations.
 
@@ -48,13 +48,13 @@ This is not a single proficiency group. It may include children who:
 - attend weekend Chinese school;
 - can converse at home but have limited literacy.
 
-The shared condition is not simply “low Chinese ability.” It is limited access to meaningful, low-pressure situations in which Chinese language and cultural knowledge feel relevant to the child’s own actions.
+The shared condition is not simply "low Chinese ability." It is limited access to meaningful, low-pressure situations in which Chinese language and cultural knowledge feel relevant to the child's own actions.
 
 ### Evidence of a reachable audience
 
 The U.S. Census Bureau estimated that **3.495 million** people age five and older spoke Chinese, including Mandarin and Cantonese, at home in 2019. This included approximately **305,100 children ages 5–14** and **201,400 people ages 15–19**. These figures exclude heritage families who no longer use Chinese at home, so they define a visible audience rather than the full potential audience.[^1]
 
-Research on heritage-language families also cautions against assuming that an educational app automatically feels like play. In a study of 212 families, children and parents distinguished the identity of **language learner** from **game player**; the authors found that technology’s value depended partly on family practice and the relationship between gameplay and heritage language.[^2]
+Research on heritage-language families also cautions against assuming that an educational app automatically feels like play. In a study of 212 families, children and parents distinguished the identity of **language learner** from **game player**; the authors found that technology's value depended partly on family practice and the relationship between gameplay and heritage language.[^2]
 
 ### User, buyer, and partner are different
 
@@ -65,7 +65,7 @@ Research on heritage-language families also cautions against assuming that an ed
 | Testing partner | Chinese teacher, weekend school, bilingual program, or cultural organization |
 | Future client | Museum, school, education provider, or cultural institution |
 
-“General culture enthusiasts” remain relevant to the wider AI Culture Lab series, but they should not share the first Story Snake MVP. Adult and child experiences require different content depth, visual language, safety controls, and success criteria.
+"General culture enthusiasts" remain relevant to the wider AI Culture Lab series, but they should not share the first Story Snake MVP. Adult and child experiences require different content depth, visual language, safety controls, and success criteria.
 
 ## 4. Market landscape
 
@@ -75,17 +75,19 @@ Duolingo reported more than **50 million daily active users** and over **$1 bill
 
 Within Chinese learning, HelloChinese combines a bite-sized curriculum with game-based progression, speech recognition, handwriting, spaced repetition, and native-speaker video.[^4] The implication is clear: points, levels, pronunciation feedback, and short lessons are already baseline patterns, not meaningful differentiation.
 
-### 4.2 Children’s Mandarin products cover games and structured teaching
+### 4.2 Children's Mandarin products cover games and structured teaching
 
 Studycat uses expert-designed games, stories, songs, and voice activities for children ages 2–8.[^5] LingoAce serves ages 3–15 with teacher-led, proficiency-based curricula supported by games, animated storytelling, and interactive media.[^6]
 
 These products show that parents can already choose between self-directed play activities and structured live instruction. Story Snake should not attempt to compete on curriculum breadth, teacher quality, or quantity of vocabulary content.
 
-### 4.3 AI children’s storytelling is becoming a crowded pattern
+### 4.3 AI children's storytelling is becoming a crowded pattern
 
-Products such as YouStory and StoryQuest already use voice interaction and AI to let children co-create or respond inside personalized stories.[^7][^8] “AI makes a different story for every child” is therefore not a sufficient position by itself.
+Products such as YouStory and StoryQuest already use voice interaction and AI to let children co-create or respond inside personalized stories.[^7][^8] "AI makes a different story for every child" is therefore not a sufficient position by itself.
 
 The more interesting research direction is **behavior-driven AI**: the child acts through a game system, and AI gives those actions contextual meaning. Experimental work such as Tinker Tales similarly explores child–AI co-creation through tangible objects, movement, and speech rather than relying only on a blank prompt box.[^9]
+
+**Supplementary observation (added in v2, informal and non-systematic):** during in-person art-studio teaching sessions, existing Chinese-learning videos shown to children were observed to tell stories without any connected interactive mechanic and without distinctly Chinese cultural content. This is a single practitioner's observation, not a survey, and should not be treated as independent proof — but it points in the same direction as the literature above, which strengthens rather than merely repeats the case for a behavior-driven, culturally curated approach.
 
 ### 4.4 Cultural institutions already use interactive digital learning
 
@@ -98,15 +100,15 @@ It does not yet demonstrate demand for Story Snake specifically. Museums typical
 | Category | Examples | What they do well | Remaining opening for Story Snake |
 |---|---|---|---|
 | Gamified language courses | Duolingo, HelloChinese | Progression, habit formation, broad skill practice | Culture can become the purpose of play rather than supporting lesson content |
-| Children’s Chinese learning | Studycat, LingoAce | Age-aware activities, curriculum, parent trust, instruction | A compact game-first cultural experience rather than a course |
-| AI children’s stories | YouStory, StoryQuest | Voice, personalization, co-created narratives | Game behavior—not conversation alone—can drive meaning |
+| Children's Chinese learning | Studycat, LingoAce | Age-aware activities, curriculum, parent trust, instruction | A compact game-first cultural experience rather than a course |
+| AI children's stories | YouStory, StoryQuest | Voice, personalization, co-created narratives | Game behavior—not conversation alone—can drive meaning |
 | Museum digital learning | Smithsonian games and Learning Lab | Curated assets, educational objectives, institutional authority | A reusable, lightweight interaction model for cultural content |
 
 This is a **white-space hypothesis based on a focused product sample**, not a claim that no comparable product exists.
 
 ## 6. Strategic opportunity
 
-The opportunity is not “Chinese vocabulary inside Snake.” That would be a familiar game with educational labels attached.
+The opportunity is not "Chinese vocabulary inside Snake." That would be a familiar game with educational labels attached.
 
 The stronger territory is:
 
@@ -138,7 +140,7 @@ Four distinctions define the concept:
 
 ### Problem statement
 
-English-dominant heritage-language children may have limited opportunities to encounter Chinese in meaningful, low-pressure contexts. Existing products primarily offer structured lessons, fixed learning games, or generated stories. This leaves room to test a game-first experience in which language and cultural knowledge emerge from the child’s actions.
+English-dominant heritage-language children may have limited opportunities to encounter Chinese in meaningful, low-pressure contexts. Existing products primarily offer structured lessons, fixed learning games, or generated stories. This leaves room to test a game-first experience in which language and cultural knowledge emerge from the child's actions.
 
 ### Interaction thesis
 
@@ -171,11 +173,11 @@ Open generation can flatten Chinese culture into generic symbols or produce inac
 
 ### Uneven language ability
 
-“ABC children” are not one proficiency level. The experience must work when a child cannot read Chinese and should not punish limited speaking ability.
+"ABC children" are not one proficiency level. The experience must work when a child cannot read Chinese and should not punish limited speaking ability.
 
 ### Child privacy and safety
 
-Under COPPA, online services directed to children under 13 have special obligations when collecting personal information. Audio containing a child’s voice can qualify as personal information.[^12] UNESCO also recommends privacy protection, age-appropriate design, and age limits for independent use of generative-AI platforms.[^13]
+Under COPPA, online services directed to children under 13 have special obligations when collecting personal information. Audio containing a child's voice can qualify as personal information.[^12] UNESCO also recommends privacy protection, age-appropriate design, and age limits for independent use of generative-AI platforms.[^13]
 
 For the first prototype, the safest default is:
 
@@ -195,7 +197,7 @@ This is a product-design constraint, not legal advice.
 The project has enough strategic support for a rapid prototype because:
 
 - a visible Chinese heritage-language family audience exists;
-- the tension between “learning” and “playing” is documented;
+- the tension between "learning" and "playing" is documented;
 - gamified language products demonstrate audience familiarity;
 - existing Chinese-learning and AI-story products clarify where **not** to compete;
 - cultural institutions already use games and interactive digital resources;
@@ -236,6 +238,8 @@ Phase 2 should compare a small number of interaction directions, choose one, and
 - one observable success criterion.
 
 The next document should answer: **What exactly does AI make possible after the player moves or collects something?**
+
+*(Note, v2: Phase 2's actual delivered decision was that v1 does not include a necessary AI behavior in the core loop — see `02-concept-and-interaction-definition-v2.md`, Section 7, for the reasoning behind that departure from this brief.)*
 
 ## Sources
 
