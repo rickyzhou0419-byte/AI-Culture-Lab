@@ -36,7 +36,9 @@ Snake is the interaction skeleton—not the educational idea. A successful proto
 
 ## Current scope
 
-The initial demo is intended to deliver one **3–5 minute playable experience** for children ages **6–10**. It will test one cultural theme, one core loop, and one clearly necessary AI behavior.
+The initial demo is intended to deliver one **3–5 minute playable experience** for children ages **6–10**. It will test one cultural theme, one core loop, and one narrowly-scoped AI test point.
+
+**Note on AI scope (updated after Phase 2 revision):** v1 deliberately treats AI as a production tool first. The single user-facing AI feature (an end-of-game personalized summary generated from the player's actual collection path) is explicitly a small test, not a claim that this feature is necessary to the experience — removing it would not make the game unplayable or incoherent. This is a conscious departure from this project's own "AI-native necessity test" (see Phase 1, Section 7), made for solo-developer capacity and monthly-cycle reasons, with Tier 3 (semantic judgment) flagged as the most likely place a truly necessary AI behavior could live in a future version. See `02-concept-and-interaction-definition-v2.md`, Section 7, for the full reasoning.
 
 This phase does **not** include:
 
@@ -56,8 +58,8 @@ This phase does **not** include:
 | Phase | Status | Output |
 |---|---|---|
 | 1. Strategic Research & Positioning | Complete | [Research and positioning](docs/01-strategic-research-positioning.md) |
-| 2. Concept & Interaction Definition | Next | Concept directions, selection, and MVP boundary |
-| 3. Prototype | Planned | Playable web demo |
+| 2. Concept & Interaction Definition | Complete (v2) | [Concept v2](02-concept-and-interaction-definition-v2.md) + [Interaction mechanism specification](03-interaction-mechanism-specification.md) |
+| 3. Prototype | Next | Playable web demo |
 | 4. User Testing & Case Study | Planned | Findings, one-minute video, and portfolio case study |
 
 ## Intended outcomes
@@ -71,9 +73,9 @@ This phase does **not** include:
 ## Working principles
 
 1. The game loop must be enjoyable before educational value is added.
-2. AI must change the experience in a way fixed rules cannot easily reproduce.
+2. AI must change the experience in a way fixed rules cannot easily reproduce. *(Aspirational for the series as a whole; v1 does not yet meet this for its core loop — see Current scope above. Revisit at Tier 3 in a future version.)*
 3. Cultural facts and representations require human curation.
-4. Children’s language ability must be treated as variable, not assumed.
+4. Children's language ability must be treated as variable, not assumed.
 5. The prototype should collect no child data it does not need.
 
 ## About AI Culture Lab
@@ -81,4 +83,3 @@ This phase does **not** include:
 AI Culture Lab is an independent portfolio and research series investigating **AI-native interaction for cultural learning**. Each monthly project follows a rapid cycle: concept, 2–3 weeks of prototyping, a short demo, a case study, and user feedback.
 
 The goal is not to build six finished products. It is to develop and test six clear ideas about how AI might help people encounter language, heritage, art, history, and culture through interaction.
-
